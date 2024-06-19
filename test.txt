@@ -1,2 +1,3 @@
 test file in cloud ---
 local file changes
+small local change 
